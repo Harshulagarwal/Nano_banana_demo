@@ -15,10 +15,10 @@ This end-to-end system demonstrates how AI can streamline creative storytelling,
 3. Install dependencies from requirements.txt (pip install -r requirements.txt)
 4. Run the streamlit application (streamlit run manga_creator.py)
 
-ScreenShots of the different Manga generated:
+# Screenshots of the different Manga generated:
 <img width="1024" height="1024" alt="ENTER_FILE_NAME_1" src="https://github.com/user-attachments/assets/b7aa8edb-52dc-4dbd-bd93-0c0a6bdb00bb" />
 <img width="1024" height="1024" alt="ENTER_FILE_NAME_2" src="https://github.com/user-attachments/assets/a63ae05c-3846-4287-a754-23543c7d3158" />
 <img width="1024" height="1024" alt="STORIES_2" src="https://github.com/user-attachments/assets/8ad5c3e8-ca7b-4592-92d8-9262c5025c02" />
 
-Youtube video:
+# Youtube video:
 https://youtu.be/FnMWTvPmR-Q
