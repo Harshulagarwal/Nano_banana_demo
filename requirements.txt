@@ -1,20 +1,6 @@
-livekit-agents
-livekit-plugins-openai
-livekit-plugins-noise-cancellation
-livekit-plugins-silero
-livekit-plugins-google
 requests
-python-dotenv>=1.0.0>=1.0.0
+python-dotenv
 streamlit
 Pillow
 google-generativeai
-ratelimit
-# pydantic-ai-slim[openai,mcp]
-# livekit-agents[tavus]~=1.0
-# tzdata
-# flask[async]
-# flask
-# flask-cors
-mem0ai
-duckduckgo-search
-langchain_community
+google-genai

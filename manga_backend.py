@@ -1,9 +1,7 @@
-import base64
 import mimetypes
 import os
 from google import genai
 from google.genai import types
-from ratelimit import limits
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
