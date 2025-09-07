@@ -27,9 +27,9 @@ def load_and_display_images(story_idea):
                 st.image(image, caption=f"Scene {idx + 1}", width='stretch')
     
 def main():
-    st.set_page_config(page_title="Manga Creator", layout="wide")
+    st.set_page_config(page_title="MangaVerse AI", layout="wide")
     
-    st.title("🎨 AI Manga Creator")
+    st.title("MangaVerse AI: Your Personal Manga Studio using Nano Banana")
     st.markdown("""
     Create your own manga story with AI-generated scenes and artwork!
     Just provide your story idea, and let the AI do the magic.
