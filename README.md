@@ -13,7 +13,8 @@ This end-to-end system demonstrates how AI can streamline creative storytelling,
 1. Download the code from github
 2. Create a virtual env and activate it 
 3. Install dependencies from requirements.txt (pip install -r requirements.txt)
-4. Run the streamlit application (streamlit run manga_creator.py)
+4. Add Google api key in .env file
+5. Run the streamlit application (streamlit run manga_creator.py)
 
 # Screenshots of the different Manga generated:
 <img width="1024" height="1024" alt="ENTER_FILE_NAME_1" src="https://github.com/user-attachments/assets/b7aa8edb-52dc-4dbd-bd93-0c0a6bdb00bb" />
